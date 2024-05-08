@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CanerCo
 - 👀 I’m interested in Natural Language Processing, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently coding on Python
+- 💞️ I’m based in Tübingen/Germany
 - 📫 How to reach me @canercoban215@gmail.com
 
 <!---
