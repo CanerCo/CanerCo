@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @CanerCo
-- 👀 I’m interested in Natural Language Processing, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently coding on Python
-- 💞️ I’m based in Tübingen/Germany
+- 🧠 I’m interested in Natural Language Processing, Machine Learning and Artificial Intelligence
+- 💻 I’m currently coding on Python
+- 🌍 I’m based in Tübingen/Germany
 - 📫 How to reach me @canercoban215@gmail.com
+- 🤝 I am open to collaborating on open source projects
 
 <!---
 CanerCo/CanerCo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
